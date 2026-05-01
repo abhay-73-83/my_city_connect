@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884081242405",
+    "project_id": "my-city-connect-887e9",
+    "storage_bucket": "my-city-connect-887e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884081242405:android:d2f71f2500ccf5fe66aacc",
+        "android_client_info": {
+          "package_name": "com.example.my_city_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7ollsG5NXGUgwtxgZTMrhLrabu4BCvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
